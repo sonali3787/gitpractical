@@ -1,1 +1,1 @@
-# gitpractical
+# GitPractical
